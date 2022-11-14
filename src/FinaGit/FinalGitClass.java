@@ -11,6 +11,12 @@ public class FinalGitClass {
 		
 		int g =45;
 		System.out.println(g);
+		
+		
+
+		int r =45;
+		System.out.println(r);
 	}
+	
 
 }

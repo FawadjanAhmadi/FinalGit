@@ -7,6 +7,8 @@ public class FinalGitClass {
 
 		int a = 34;
 		System.out.println(a);
+		int b = 34;
+		System.out.println(b);
 	}
 
 }

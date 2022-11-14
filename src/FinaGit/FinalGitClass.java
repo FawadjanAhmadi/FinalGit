@@ -7,6 +7,10 @@ public class FinalGitClass {
 
 		int a = 34;
 		System.out.println(a);
+		
+		
+		int g =45;
+		System.out.println(g);
 	}
 
 }
